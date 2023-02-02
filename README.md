@@ -2,7 +2,7 @@
 In this directory we design a working space for c++ problem solving. We compile source files using CMake and we added clang format to keeps source files in a consistent coding style. 
 
 
-###Compilation 
+### Compilation 
 
 To compile and run source file :
 Clone this repository and run the following commands: 
